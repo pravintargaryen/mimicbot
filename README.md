@@ -6,7 +6,7 @@ Welcome to C-AI bot which has been custom trained on C programming language data
 ![screenshot](https://cdn-langchain.netlify.app/2.png)
 
 ## Demo
-Demo app at [Netlify]()
+Demo app at [Netlify](https://c-ai.netlify.app/)
 
 ## Contributions
 
