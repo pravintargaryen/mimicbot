@@ -1,8 +1,13 @@
-# React + Vite
+# Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to C-AI bot which has been custom trained on C programming language data from book sources using langchain.js and built with React
 
-Currently, two official plugins are available:
+## Screenshot
+![screenshot](https://cdn-langchain.netlify.app/2.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demo
+Demo app at [Netlify]()
+
+## Contributions
+
+All contributions and improvements welcome
