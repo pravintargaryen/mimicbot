@@ -41,7 +41,7 @@ h3 {
 }
 
 textarea {
-  background: rosybrown;
+  background: #18354c;
   position: absolute;
   bottom: 0;
   left: 0;
@@ -88,11 +88,11 @@ button {
 
 .question {
   background-color: rgb(244, 244, 244);
-  color: red;
+  color: orange;
 }
 
 .response {
-  background-color: lightsalmon;
+  background-color: #18354c;
   color: #fff;
   margin-left: 85px;
 }
@@ -165,7 +165,7 @@ button {
 }
 
 .info-container {
-  background: rgb(244, 244, 244);
+  background: #18354c;
   display: flex;
   justify-content: center;
   align-items: center;

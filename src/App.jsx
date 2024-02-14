@@ -1,5 +1,4 @@
 import { useState } from "react";
-import logoImage from "./assets/rectangular.png";
 
 const App = () => {
   const [text, setText] = useState("");
@@ -42,10 +41,10 @@ const App = () => {
       <div className="chat-header">
         <div className="info-container">
           <img
-            src={logoImage}
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Atom_editor_logo.svg/262px-Atom_editor_logo.svg.png"
             alt="Logo"
-            width={200}
-            height={200}
+            width={120}
+            height={120}
             className="logo"
           />
         </div>
