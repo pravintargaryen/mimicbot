@@ -1,10 +1,10 @@
 # Overview
 
-Welcome to Rectangular - your React & Angular Companion and built with React ❤️
+Mimic bot 👋 an AI app 💻 which has been custom trained on MIMIC-III database using langchain 🎉 and built with React ❤️‍🔥.S
 
 ## Screenshot
 
-![screenshot](https://cdn-langchain.netlify.app/2.png)
+![screenshot](https://cdn-langchain.netlify.app/mimicbot.png)
 
 ## Demo
 
