@@ -1,6 +1,6 @@
 # Overview
 
-Mimic bot 👋 an AI app 💻 which has been custom trained on MIMIC-III database using langchain 🎉 and built with React ❤️‍🔥.S
+Mimic bot 👋 an AI app 💻 which has been custom trained on MIMIC-III database using langchain 🎉 and built with React ❤️‍🔥
 
 ## Screenshot
 
